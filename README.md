@@ -18,4 +18,4 @@ Micro Controllers
 Trying to do better 🌱
 
 **🤝 Connect With Me**
-📧 Email : [Email Me](mailto:tasin.abir10941455@gmail.com)
+📧 Email : (mailto:tasin.abir10941455@gmail.com)
