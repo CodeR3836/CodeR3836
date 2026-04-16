@@ -1,6 +1,7 @@
 Programming Language
 
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/602c7109-289e-4f7c-aaff-f001113c26a4" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/681f180a-2365-449f-89ff-b4342a22ddc6" />
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/602c7109-289e-4f7c-aaff-f001113c26a4" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/681f180a-2365-449f-89ff-b4342a22ddc6" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/2ddd3ed9-d46d-4cf0-8829-6ae538cc5504" />
+
 
 
 
