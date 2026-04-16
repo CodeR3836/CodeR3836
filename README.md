@@ -1,6 +1,6 @@
 Programming Language
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> \
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/296e1a2f-b627-4172-927e-c165a628eaea" />
 
 ML&DL  
 
