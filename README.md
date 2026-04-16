@@ -1,6 +1,6 @@
 Programming Language
 
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/296e1a2f-b627-4172-927e-c165a628eaea" />
+<img width="206" height="148" alt="image" src="https://github.com/user-attachments/assets/8aa13172-d267-44b3-a017-fcc33c458a20" />
 
 ML&DL  
 
