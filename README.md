@@ -1,9 +1,7 @@
 HI I am Jayed Hasan Tasin
 
 Robotics & AI enthusiast 🤖 | Math & Physics lover 📐 
-
 Competitive Programming explorer 💻  
-
 Building systems, solving problems, and learning how intelligence works step by step.
 
 
