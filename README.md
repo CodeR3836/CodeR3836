@@ -1,32 +1,21 @@
-HI I am Jayed Hasan Tasin
-
-Robotics & AI enthusiast 🤖 | Math & Physics lover 📐 
-Competitive Programming explorer 💻  
-Building systems, solving problems, and learning how intelligence works step by step.
+# 💫 About Me:
+Robotics & AI enthusiast 🤖 <br>Math & Physics lover 📐<br>Competitive Programming explorer 💻<br>Building systems, solving problems, and learning how intelligence
 
 
-_______________________________________________________________________________________________________________________________
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TA SI N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tasin.abir10941455@gmail.com) 
 
-Programming Language
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=CodeR3836&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=CodeR3836&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeR3836&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/602c7109-289e-4f7c-aaff-f001113c26a4" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/681f180a-2365-449f-89ff-b4342a22ddc6" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/2ddd3ed9-d46d-4cf0-8829-6ae538cc5504" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-ML&DL  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=CodeR3836&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img width="329" height="48" alt="image" src="https://github.com/user-attachments/assets/9f6951b2-8253-42fa-b450-7b758a775b22" /> 
-
-IDE & Version Control 
-
-<img width="273" height="48" alt="image" src="https://github.com/user-attachments/assets/52586b50-1308-410c-8c90-45c65b239f60" /> 
-
-Micro Controllers
-
-<img width="104" height="48" alt="image" src="https://github.com/user-attachments/assets/8e863166-e03d-4658-adf5-0ab1ace4a584" /> 
-
-
-_______________________________________________________________________________________________________________________________
-
-**🤝 Connect With Me**
-
-
-📧 Email : tasin.abir10941455@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
