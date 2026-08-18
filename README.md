@@ -1,5 +1,5 @@
 # 💫 About Me:
-Robotics & AI enthusiast 🤖 <br>Math & Physics lover 📐<br>Competitive Programming explorer 💻<br>Building systems, solving problems, and learning how intelligence
+Robotics & AI enthusiast 🤖 <br>Driven by Mathematics & Physics  📐<br>Competitive Programming explorer 💻<br>Building systems, solving problems, and learning how intelligence
 
 
 ## 🌐 Socials:
