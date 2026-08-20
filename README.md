@@ -11,7 +11,8 @@ Robotics & AI enthusiast 🤖 <br>Driven by Mathematics & Physics  📐<br>Compe
 ![](https://github-readme-stats.shion.dev/api?username=CodeR3836&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=CodeR3836&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeR3836&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 📊 HackaTime Stats:
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=60550&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
